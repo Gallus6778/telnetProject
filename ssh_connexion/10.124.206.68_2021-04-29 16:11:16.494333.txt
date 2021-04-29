@@ -1,0 +1,25 @@
+
+          NON DRX TIMER ...............................  0
+          SPLIT ON CCCH ............................... N
+        NETWORK CAPABILITY
+          CIPHERING ALGORITHM ......................... GEA3
+          SM CAPABILITIES VIA DEDICATED CHANNELS ...... Y
+          SM CAPABILITIES VIA GPRS CHANNELS ........... Y
+          UCS2 SUPPORT ................................ Y
+          SS SCREENING INDICATOR ...................... 1  
+        GPRS DETACH FLAG .............................. OFF
+        MOBILE NOT REACHABLE FOR GPRS FLAG (MNRG)...... OFF
+        NON-GPRS ALERT FLAG (NGAF)..................... OFF
+        CIRCUIT SWITCHED CALL FLAG .................... OFF
+        GERAN RESTRICTED............................... N
+        UTRAN RESTRICTED............................... N
+        ROAMING RESTRICTED............................. N
+        CHARGING CHARACTERISTICS....................... 0100
+        HLR-ADDRESS
+          GLOBAL TITLE ................................ 237660009002      
+          NUMBERING PLAN .............................. E.164           
+          NATURE OF ADDRESS ........................... INT             
+        VLR-ADDRESS ................................... NO ASSOCIATION
+
+        SHORT MESSAGE SERVICE
+          MT-SHORT MESSAGE POINT TO POINT (T21

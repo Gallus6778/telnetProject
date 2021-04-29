@@ -13,24 +13,26 @@ tn = telnetlib.Telnet(server_ip, port)
 print('connexion en cours 1 ...')
 # tn.read_until(b"Username: ")
 
-tn.write(username + "\n")
+tn.write(username.encode() + b"\n")
 
 print('connexion en cours 2 ...')
 
 # tn.read_until(b"Password: ")
 
-tn.write(password + "\n")
+tn.write(password.encode() + b"\n")
 
 print('connexion en cours 3 ...')
 
 print("Successfully connected to %s" % server_ip)
 tn.write(b"ZMMI:MSISDN=237662165358:;\n")
 
+print("test")
+
 # time.sleep(1)
 
 # output = tn.read_very_eager()
 
-output = tn.read_all()
-# output = output.decode('')
+output = tn.read_ea()
+output = output.decode('utf8')
 print(output)
 print("done")

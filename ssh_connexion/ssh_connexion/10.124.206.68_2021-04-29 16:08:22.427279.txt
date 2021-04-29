@@ -1,0 +1,49 @@
+
+ENTER PASSWORD <  **********
+
+SGSN      YASG01                    2021-04-29  14:08:26
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       WELCOME TO THE DX 200 SERIES DIALOGUE
+
+
+
+
+
+MAIN LEVEL COMMAND <___>
+<  ZMMI:MSISDN=237663064317:;
+
+
+LOADING PROGRAM VERSION 13.16-0
+
+SGSN      YASG01                    2021-04-29  14:08:26
+
+        SUBSCRIBER STATE INFORMATION:
+
+        INTERNATIONAL MOBILE SUBSCRIBER IDENTITY ...... 624042720299067 
+        MOBILE SUBSCRIBER INTERNATIONAL ISDN NUMBER ... 237663064317    
+        PACKET TEMPORARY MOBILE SUBSCRIBER IDENTITY ... D728FF3FH
+        RADIO ACCESS TYPE ............................. UTRAN
+        MM STATE ...................................... IDLE          
+        INTERNAL STATE ................................ 11H / PDP DEACT     
+        CONTROL PLANE PAPU UNIT INDEX ................. 3
+        GN SGSN ADDRESS FOR SIGNALLING (IPV4) ......... 041.244.252.006
+
+COMMAND EXECUTED
+
+
+VISITING GPRS SUBSCRIBER DATA HANDLING COMMAND <MM_>
+<  

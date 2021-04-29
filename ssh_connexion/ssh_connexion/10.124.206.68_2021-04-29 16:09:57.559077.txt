@@ -1,0 +1,74 @@
+
+ENTER PASSWORD <  **********
+
+SGSN      YASG01                    2021-04-29  14:10:01
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       WELCOME TO THE DX 200 SERIES DIALOGUE
+
+
+
+
+
+MAIN LEVEL COMMAND <___>
+<  ZMMO:MSISDN=237663064317:;
+
+
+LOADING PROGRAM VERSION 13.16-0
+
+SGSN      YASG01                    2021-04-29  14:10:01
+
+        SUBSCRIBER INFORMATION:
+
+        INTERNATIONAL MOBILE SUBSCRIBER IDENTITY ...... 624042720299067 
+        MOBILE SUBSCRIBER INTERNATIONAL ISDN NUMBER ... 237663064317    
+        SERVING SMMU UNIT INDEX ....................... 01
+        NETWORK ACCESS MODE ........................... BOTH GSM AND GPRS
+        RADIO ACCESS TYPE ............................. UTRAN
+        TERMINAL TYPE ................................. GPRS AND UMTS
+        SUBS ACCESS CAPABILITY (HLR PROFILE) .......... GPRS ONLY
+        LA MOBILE COUNTRY CODE ........................ 624
+        LA MOBILE NETWORK CODE ........................ 04 
+        LOCATION AREA CODE ............................ 7725H/30501D
+        SERVICE AREA CODE ............................. 29D5H/10709D
+        ROUTING AREA CODE ............................. 01H/001D
+        CELL IDENTITY ................................. 00000D
+        DRX PARAMETER
+          SPLIT PG CYCLE CODE ......................... 10 
+          NON DRX TIMER ...............................  0
+          SPLIT ON CCCH ............................... N
+        NETWORK CAPABILITY
+          CIPHERING ALGORITHM ......................... GEA3
+          SM CAPABILITIES VIA DEDICATED CHANNELS ...... Y
+          SM CAPABILITIES VIA GPRS CHANNELS ........... Y
+          UCS2 SUPPORT ................................ Y
+          SS SCREENING INDICATOR ...................... 1  
+        GPRS DETACH FLAG .............................. OFF
+        MOBILE NOT REACHABLE FOR GPRS FLAG (MNRG)...... OFF
+        NON-GPRS ALERT FLAG (NGAF)..................... OFF
+        CIRCUIT SWITCHED CALL FLAG .................... OFF
+        GERAN RESTRICTED............................... N
+        UTRAN RESTRICTED............................... N
+        ROAMING RESTRICTED............................. N
+        CHARGING CHARACTERISTICS....................... 0100
+        HLR-ADDRESS
+          GLOBAL TITLE ................................ 237660009002      
+          NUMBERING PLAN .............................. E.164           
+          NATURE OF ADDRESS ........................... INT             
+        VLR-ADDRESS ................................... NO ASSOCIATION
+
+        SHORT MESSAGE SERVICE
+          MT-SHORT MESSAGE POINT TO POINT (T21).

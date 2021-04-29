@@ -1,0 +1,51 @@
+
+ENTER PASSWORD <  **********
+
+SGSN      YASG01                    2021-04-29  13:24:58
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       WELCOME TO THE DX 200 SERIES DIALOGUE
+
+
+
+
+
+MAIN LEVEL COMMAND <___>
+<  ZMMO:MSISDN=237669595858:;
+
+
+LOADING PROGRAM VERSION 13.16-0
+
+SGSN      YASG01                    2021-04-29  13:24:58
+
+        SUBSCRIBER INFORMATION:
+
+        INTERNATIONAL MOBILE SUBSCRIBER IDENTITY ...... 624042747827156 
+        MOBILE SUBSCRIBER INTERNATIONAL ISDN NUMBER ... 237669595858    
+        SERVING SMMU UNIT INDEX ....................... 01
+        NETWORK ACCESS MODE ........................... BOTH GSM AND GPRS
+        RADIO ACCESS TYPE ............................. UTRAN
+        TERMINAL TYPE ................................. UMTS
+        SUBS ACCESS CAPABILITY (HLR PROFILE) .......... GPRS ONLY
+        LA MOBILE COUNTRY CODE ........................ 624
+        LA MOBILE NETWORK CODE ........................ 04 
+        LOCATION AREA CODE ............................ 7725H/30501D
+        SERVICE AREA CODE ............................. 29D2H/10706D
+        ROUTING AREA CODE ............................. 01H/001D
+        CELL IDENTITY ................................. 00000D
+        DRX PARAMETER
+          SPLIT PG CYCLE CODE ......................... 4  
+         
